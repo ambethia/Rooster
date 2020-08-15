@@ -1,0 +1,6 @@
+## Interface: 80300
+## Title: Rooster
+## Author: self
+## Version: 1.0
+
+Main.lua
